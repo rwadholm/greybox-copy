@@ -6,6 +6,9 @@ Try it out by going to the URL, and copying text from anywhere on your machine: 
 Syncronous copy!
 
 ## Contributors
+
 Kaitlyn Dryer
+
 George DuMontier
+
 Bob Wadholm
