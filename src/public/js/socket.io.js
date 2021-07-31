@@ -873,7 +873,7 @@
               ((n = a.call(this)).nsps = {}),
               (n.subs = []),
               t && "object" === r(t) && ((e = t), (t = void 0)),
-              ((e = e || {}).path = e.path || "/socket.io"),
+              ((e = e || {}).path = e.path || "/"),
               (n.opts = e),
               n.reconnection(!1 !== e.reconnection),
               n.reconnectionAttempts(e.reconnectionAttempts || 1 / 0),
